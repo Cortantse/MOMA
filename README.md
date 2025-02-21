@@ -3,7 +3,7 @@
 This repository accompanies the paper **"Mitigating Social Bias in Large Language Models: A Multi-Objective Approach within a Multi-Agent Framework"**, which has been accepted at AAAI 2025 and is available as a preprint on arXiv.
 
 ## Code Availability
-The code is currently being prepared and will be released as soon as the conference concludes. Thank you for your interest and understanding.
+The code is currently being prepared and will be released as soon as possible after the conference concludes. Thank you for your interest and understanding.
 
 ## Citation
 If you find our work helpful, please consider citing:
