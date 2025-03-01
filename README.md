@@ -1,5 +1,9 @@
 # Mitigating Social Bias in Large Language Models: A Multi-Objective Approach within a Multi-Agent Framework
 
+## Poster
+![d8fe00c3f24b69dfb3d6efa7ff235474](https://github.com/user-attachments/assets/e9f873fd-d277-4c49-a033-4e987a97a895)
+
+
 This repository accompanies the paper **"Mitigating Social Bias in Large Language Models: A Multi-Objective Approach within a Multi-Agent Framework"**, which has been accepted at AAAI 2025 and is available as a preprint on arXiv.
 
 ## Code Availability
