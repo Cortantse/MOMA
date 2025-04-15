@@ -8,7 +8,7 @@ This repository accompanies the paper **"Mitigating Social Bias in Large Languag
 ## 🚀 Code Availability  
 The code is expected to be released **around June** due to the authors' tight schedule, as we are working on an **extended journal version** 📚 and preparing for another **conference deadline** ⏳.  
 
-In the meantime, we have provided the **input data X** processed through our framework ⚡. We appreciate your **understanding, interest, and support!** ❤️  
+In the meantime, we have provided the **input data X** processed through our framework ⚡. We appreciate your **understanding, interest, and support!** 
 
 ## 📖 Citation  
 If you find our work helpful, please consider citing:  
