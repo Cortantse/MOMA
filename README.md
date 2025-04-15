@@ -14,13 +14,5 @@ In the meantime, we have provided the **input data X** processed through our fra
 If you find our work helpful, please consider citing:  
 
 ```bibtex
-@misc{xu2025mitigatingsocialbiaslarge,
-      title={Mitigating Social Bias in Large Language Models: A Multi-Objective Approach within a Multi-Agent Framework}, 
-      author={Zhenjie Xu and Wenqing Chen and Yi Tang and Xuanying Li and Cheng Hu and Zhixuan Chu and Kui Ren and Zibin Zheng and Zhichao Lu},
-      year={2025},
-      eprint={2412.15504},
-      archivePrefix={arXiv},
-      primaryClass={cs.CL},
-      url={https://arxiv.org/abs/2412.15504}, 
-}
+@article{Xu_Chen_Tang_Li_Hu_Chu_Ren_Zheng_Lu_2025, title={Mitigating Social Bias in Large Language Models: A Multi-Objective Approach Within a Multi-Agent Framework}, volume={39}, url={https://ojs.aaai.org/index.php/AAAI/article/view/34748}, DOI={10.1609/aaai.v39i24.34748}, abstractNote={Natural language processing (NLP) has seen remarkable advancements with the development of large language models (LLMs). Despite these advancements, LLMs often produce socially biased outputs. Recent studies have mainly addressed this problem by prompting LLMs to behave ethically, but this approach results in unacceptable performance degradation. In this paper, we propose a multi-objective approach within a multi-agent framework (MOMA) to mitigate social bias in LLMs without significantly compromising their performance. The key idea of MOMA involves deploying multiple agents to perform causal interventions on bias-related contents of the input questions, breaking the shortcut connection between these contents and the corresponding answers. Unlike traditional debiasing techniques leading to performance degradation, MOMA substantially reduces bias while maintaining accuracy in downstream tasks. Our experiments conducted in two datasets and two models demonstrate that MOMA reduces bias scores by up to 87.7%, with only a marginal performance degradation of up to 6.8% in the BBQ dataset. Additionally, it significantly enhances the multi-objective metric icat in the StereoSet dataset by up to 58.1%.}, number={24}, journal={Proceedings of the AAAI Conference on Artificial Intelligence}, author={Xu, Zhenjie and Chen, Wenqing and Tang, Yi and Li, Xuanying and Hu, Cheng and Chu, Zhixuan and Ren, Kui and Zheng, Zibin and Lu, Zhichao}, year={2025}, month={Apr.}, pages={25579-25587} }
 ```
