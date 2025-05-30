@@ -9,9 +9,14 @@ This repository accompanies the paper **"Mitigating Social Bias in Large Languag
 **[Read the Paper Here](https://ojs.aaai.org/index.php/AAAI/article/view/34748)**   
 
 ## 🚀 Code Availability  
-The code is expected to be released **around June** due to the authors' tight schedule, as we are working on an **extended journal version** 📚 and preparing for another **conference deadline** ⏳.  
+MOMA relies on few-shot examples to perform context intervention, a key mechanism in our framework. To support reproducibility and downstream application, we have released a representative set of processed samples from MOMA 🧠, which can serve as few-shot inputs for LLMs to learn from and adapt their behaviors.
 
-In the meantime, we have provided the **input data X** processed through our framework ⚡. We appreciate your **understanding, interest, and support!** 
+While the full codebase is under preparation, we are currently focusing on an extended journal version 📚 and preparing for another conference deadline ⏳. Additionally, the lead author is actively preparing for PhD/MPhil applications, which may cause some delay.
+
+For any technical details or collaboration inquiries, feel free to contact the authors via email at:
+xuzhj33 [at] mail2 [dot] sysu [dot] edu [dot] cn ✉️
+
+We appreciate your understanding, interest, and support!
 
 ## 📖 Citation  
 If you find our work helpful, please consider citing:  
